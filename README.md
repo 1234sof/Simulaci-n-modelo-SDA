@@ -12,7 +12,6 @@ Tesis-Moran-Simbolico/
 ├── data/
 ├── scripts/
 ├── results/
-├── manuscript/
 └── docs/
 ```
 
